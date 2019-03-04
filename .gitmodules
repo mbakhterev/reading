@@ -1,0 +1,6 @@
+[submodule "tex"]
+	path = tex
+	url = repo@k.imm.uran.ru:infra/tex.git
+[submodule "makenv"]
+	path = makenv
+	url = repo@k.imm.uran.ru:infra/makenv.git
